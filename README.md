@@ -27,3 +27,10 @@ pkg install nano
 
 git clone https://github.com/zeusz1/zeusz-bot
 
+cd zeusz-bot
+
+unzip zeusz-bot.zip
+
+cd zeus
+
+python3 zeus
